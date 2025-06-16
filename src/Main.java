@@ -14,7 +14,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         HttpClient client = HttpClient.newHttpClient();
 
-        String apiKey = "fd9d65a9a5c842e5c4394795";
+        String apiKey = "";
         Integer escolha;
         Float valor;
 
